@@ -6,7 +6,7 @@
 * [VintageLines](https://packagecontrol.io/packages/VintageLines) - Relative line numbers
 * [AutoFileName](https://packagecontrol.io/packages/AutoFileName)
 * [CaseConversion](https://packagecontrol.io/packages/Case%20Conversion) - converts word between pascal, camel, snake, dot, dash (hyphen) cases, and separated words.
-
+* [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 
 ##HTML/CSS
 * [CSS3](https://packagecontrol.io/packages/CSS3) - CSS3 syntax, autocomplete
