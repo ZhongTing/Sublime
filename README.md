@@ -13,3 +13,5 @@
 * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML, CSS, JavaScript and JSON code formatter 
 * [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) -underlays selected hexadecimal colorcodes
 
+##Other
+* [PrettyJSON](https://packagecontrol.io/packages/Pretty%20JSON) ctrl+alt+j to prettify json
