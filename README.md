@@ -13,5 +13,9 @@
 * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML, CSS, JavaScript and JSON code formatter 
 * [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) -underlays selected hexadecimal colorcodes
 
+##Python
+* [Python PEP8 Autoformat](https://packagecontrol.io/packages/Python%20PEP8%20Autoformat)
+* [Anacoda](http://damnwidget.github.io/anaconda/IDE/) - turn Sublime Text3 into a full featured Python development IDE
+
 ##Other
 * [PrettyJSON](https://packagecontrol.io/packages/Pretty%20JSON) - ctrl+alt+j to prettify json
